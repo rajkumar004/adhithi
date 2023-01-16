@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/adhithi/static/css/main.e6c13ad2.css",
+    "main.js": "/adhithi/static/js/main.397919ec.js",
+    "index.html": "/adhithi/index.html",
+    "main.e6c13ad2.css.map": "/adhithi/static/css/main.e6c13ad2.css.map",
+    "main.397919ec.js.map": "/adhithi/static/js/main.397919ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.397919ec.js"
+  ]
+}
